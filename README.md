@@ -7,3 +7,8 @@ The Header component contains the navigation menu.
 The Post component renders a post on the page. I initialized the component’s state by setting the post property to null.
 
 After the component was mounted, I utilized the useEffect hook and Axios to retrieve a random post of four paragraphs from the Bacon Ipsum JSON API and change our post field to the data returned from this API.
+
+## Interface:
+
+![image](https://user-images.githubusercontent.com/81660066/230388397-1aa94d62-c808-42d5-9a9e-050244365114.png)
+
