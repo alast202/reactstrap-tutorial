@@ -1,4 +1,4 @@
-This is a tutorial Project I completed for learning how to use bootstrap with react, using reactstrap to add Bootstrap to React.
+## This is a tutorial Project I completed for learning how to use bootstrap with react, using reactstrap to add Bootstrap to React.
 
 I installed Axios as a dependency. Axios is a promise-based HTTP client for the browser and Node.js. It enables me to fetch posts from the Bacon Ipsum JSON API.
 
